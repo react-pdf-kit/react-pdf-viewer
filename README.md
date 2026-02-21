@@ -94,7 +94,7 @@ If you need broader browser compatibility, you can continue using PDF.js `4.10.3
 | ------ | ------- | ---- | ------ | ---------- | -------------- |
 | 119+   | 115+    | 115+ | 17.4+  | 17.4+      | 126+           |
 
-To change the version of PDF.js used, refer to [Dependency Override](https://docs.react-pdf-kit.dev/usage-guide/overriding-dependency/) guide.
+To change the version of PDF.js used, refer to [Dependency Override](https://docs.react-pdf-kit.dev/usage-guide/overriding-dependency?utm_source=github&utm_medium=referral) guide.
 
 ## 2. Install the Package
 
@@ -208,10 +208,10 @@ Here are some sample projects to get started on React PDF quickly:
 16. [Docusaurus - TypeScript](https://github.com/react-pdf-kit/starter-rp-docusaurus-ts)
 17. [Electron - JavaScript](https://github.com/react-pdf-kit/starter-rp-electron-js-vite)
 18. [Electron - TypeScript](https://github.com/react-pdf-kit/starter-rp-electron-ts-vite)
-19. [TanStack - JavaScript](https://github.com/react-pdf-kit/starter-rp-tanstack-router-js)
-20. [TanStack - TypeScript](https://github.com/react-pdf-kit/starter-rp-tanstack-router-ts)
 21. [React Router - JavaScript](https://github.com/react-pdf-kit/starter-rp-react-router-js)
 22. [React Router - TypeScript](https://github.com/react-pdf-kit/starter-rp-react-router-ts)
+23. [TanStack - JavaScript](https://github.com/react-pdf-kit/starter-rp-tanstack-router-js)
+20. [TanStack - TypeScript](https://github.com/react-pdf-kit/starter-rp-tanstack-router-ts)
 
 
 # 📝 Changelog
