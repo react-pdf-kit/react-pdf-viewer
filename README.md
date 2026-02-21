@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://www.react-pdf.dev/?utm_source=github&utm_medium=referral" target="_blank">
+  <a href="https://www.react-pdf-kit.dev/?utm_source=github&utm_medium=referral" target="_blank">
     <picture>
       <source srcset="./assets/img/react-pdf_cover.webp" width="100%">
       <img alt="React PDF Kit" src="./assets/img/react-pdf_cover.webp width="100%">
@@ -94,7 +94,7 @@ If you need broader browser compatibility, you can continue using PDF.js `4.10.3
 | ------ | ------- | ---- | ------ | ---------- | -------------- |
 | 119+   | 115+    | 115+ | 17.4+  | 17.4+      | 126+           |
 
-To change the version of PDF.js used, refer to [Dependency Override](/usage-guide/overriding-dependency) guide.
+To change the version of PDF.js used, refer to [Dependency Override](https://docs.react-pdf-kit.dev/usage-guide/overriding-dependency/) guide.
 
 ## 2. Install the Package
 
@@ -151,7 +151,7 @@ The following structure demonstrates how to build a React PDF viewer by importin
 </RPConfig>
 ```
 
-_Remark: For more information on each component, please refer to [Component](https://docs.react-pdf.dev/components/overview?utm_source=github&utm_medium=referral)._
+_Remark: For more information on each component, please refer to [Component](https://docs.react-pdf-kit.dev/components/overview?utm_source=github&utm_medium=referral)._
 
 ### Basic Usage
 
@@ -160,7 +160,7 @@ The most basic usage of React PDF viewer needs four components, namely: `RPConfi
 Here's how to implement a basic PDF viewer in a React application:
 
 ```jsx
-import { RPProvider, RPLayout, RPPages, RPConfig } from '@pdf-viewer/react'
+import { RPProvider, RPLayout, RPPages, RPConfig } from '@react-pdf-kit/viewer'
 
 const App = () => {
   return (
@@ -197,19 +197,21 @@ Here are some sample projects to get started on React PDF quickly:
 5. [React (vite) - TypeScript - Turborepo](https://github.com/react-pdf-kit/starter-rp-react-vite-ts-turborepo)
 6. [Next.js - JavaScript (App Router)](https://github.com/react-pdf-kit/starter-rp-nextjs-app-router-js)
 7. [Next.js - TypeScript (App Router)](https://github.com/react-pdf-kit/starter-rp-nextjs-app-router-ts)
-8. [Next.js - TypeScript - Turborepo](https://github.com/react-pdf-kit/starter-rp-next-ts-turborepo)
-9. [Remix - JavaScript](https://github.com/react-pdf-kit/starter-rp-remix-js)
-10. [Remix - TypeScript](https://github.com/react-pdf-kit/starter-rp-remix-ts)
-11. [Gatsby - JavaScript](https://github.com/react-pdf-kit/starter-rp-gatsby-js)
-12. [Gatsby - TypeScript](https://github.com/react-pdf-kit/starter-rp-gatsby-ts)
-13. [Docusaurus - JavaScript](https://github.com/react-pdf-kit/starter-rp-docusaurus-js)
-14. [Docusaurus - TypeScript](https://github.com/react-pdf-kit/starter-rp-docusaurus-ts)
-15. [Electron - JavaScript](https://github.com/react-pdf-kit/starter-rp-electron-js-vite)
-16. [Electron - TypeScript](https://github.com/react-pdf-kit/starter-rp-electron-ts-vite)
-17. [TanStack - JavaScript](https://github.com/react-pdf-kit/starter-rp-tanstack-router-js)
-18. [TanStack - TypeScript](https://github.com/react-pdf-kit/starter-rp-tanstack-router-ts)
-19. [React Router - JavaScript](https://github.com/react-pdf-kit/starter-rp-react-router-js)
-20. [React Router - TypeScript](https://github.com/react-pdf-kit/starter-rp-react-router-ts)
+8. [Next.js - JavaScript (Pages Router)](https://github.com/react-pdf-kit/starter-rp-nextjs-pages-router-js)
+9. [Next.js - TypeScript (Pages Router)](https://github.com/react-pdf-kit/starter-rp-nextjs-pages-router-ts)
+10. [Next.js - TypeScript - Turborepo](https://github.com/react-pdf-kit/starter-rp-next-ts-turborepo)
+11. [Remix - JavaScript](https://github.com/react-pdf-kit/starter-rp-remix-js)
+12. [Remix - TypeScript](https://github.com/react-pdf-kit/starter-rp-remix-ts)
+13. [Gatsby - JavaScript](https://github.com/react-pdf-kit/starter-rp-gatsby-js)
+14. [Gatsby - TypeScript](https://github.com/react-pdf-kit/starter-rp-gatsby-ts)
+15. [Docusaurus - JavaScript](https://github.com/react-pdf-kit/starter-rp-docusaurus-js)
+16. [Docusaurus - TypeScript](https://github.com/react-pdf-kit/starter-rp-docusaurus-ts)
+17. [Electron - JavaScript](https://github.com/react-pdf-kit/starter-rp-electron-js-vite)
+18. [Electron - TypeScript](https://github.com/react-pdf-kit/starter-rp-electron-ts-vite)
+19. [TanStack - JavaScript](https://github.com/react-pdf-kit/starter-rp-tanstack-router-js)
+20. [TanStack - TypeScript](https://github.com/react-pdf-kit/starter-rp-tanstack-router-ts)
+21. [React Router - JavaScript](https://github.com/react-pdf-kit/starter-rp-react-router-js)
+22. [React Router - TypeScript](https://github.com/react-pdf-kit/starter-rp-react-router-ts)
 
 
 # 📝 Changelog
