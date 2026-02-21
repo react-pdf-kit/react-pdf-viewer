@@ -17,7 +17,7 @@
   
   [React PDF Kit Home][reactpdf] - [License](#page_facing_up-license) - [Documentation][reactpdf-docs]
 
-[![NPM Version](https://img.shields.io/npm/v/%40pdf-viewer%2Freact)][npm]
+[![NPM Version](https://img.shields.io/npm/v/%40react-pdf-kit%2Fviewer)][npm]
 [![Twitter](https://img.shields.io/twitter/follow/ReactPDF?label=ReactPDF&style=social)][twitter]
 
 </div>
