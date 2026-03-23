@@ -32,6 +32,10 @@
 - **Modern Browser Compatibility**: The React PDF Viewer components seamlessly across modern browsers, eliminating compatibility headaches.
 - **Active Development & Support**: With regular updates and a responsive support team, React PDF Kit evolves to meet developer needs.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8803229a-2f59-48d1-aecc-628ae759862f" alt="React PDF Kit demo">
+</p>
+
 # 📜 Background
 
 As developers ourselves, we faced many issues such as browser incompatibility and customizability while trying to render a PDF document or working with PDF libraries. Having faced issues using PDF libraries, we want the solution to be flexible for React.js developers and teams. More importantly, the technical document must be easy to use!
