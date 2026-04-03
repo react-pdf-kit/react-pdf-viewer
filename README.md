@@ -190,6 +190,20 @@ To enhance React PDF Kit further, we offer built-in hooks and props that let you
 
 For detailed usage, refer to our [Documentation][reactpdf-docs].
 
+### 5. Localization
+
+React PDF Kit supports multiple languages out of the box. Pass a locale JSON file to `RPConfig` to translate all viewer text:
+
+```jsx
+import zhCN from './localization/zh_CN.json'
+
+<RPConfig localization={zhCN}>
+  {/* ... */}
+</RPConfig>
+```
+
+We ship locale files for English, Italian, Portuguese, Thai, and Chinese (Simplified). You can also create your own -- see the [Localization Guide](./localization/README.md) for the full list of translation keys and instructions on adding a new language. If you've created a locale we don't support yet, feel free to open a PR to share it with the community!
+
 # :pushpin: Starter Toolkit
 
 Here are some sample projects to get started on React PDF quickly:
