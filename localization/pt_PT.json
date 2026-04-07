@@ -57,6 +57,8 @@
   "singlePageTooltip": "Ativar página única",
   "dualPageLabel": "Página dupla",
   "dualPageTooltip": "Ativar página dupla",
+  "dualPageWithCoverLabel": "Página dupla com capa",
+  "dualPageWithCoverTooltip": "Ativar página dupla com capa",
   "propertiesFilenameLabel": "Nome do arquivo",
   "propertiesFileSizeLabel": "Tamanho do arquivo",
   "propertiesTitleLabel": "Título",

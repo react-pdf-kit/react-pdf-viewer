@@ -57,6 +57,8 @@
   "singlePageTooltip": "เปิดใช้หน้าเดี่ยว",
   "dualPageLabel": "หน้าคู่",
   "dualPageTooltip": "เปิดใช้หน้าคู่",
+  "dualPageWithCoverLabel": "หน้าคู่พร้อมปก",
+  "dualPageWithCoverTooltip": "เปิดใช้หน้าคู่พร้อมปก",
   "propertiesFilenameLabel": "ชื่อเอกสาร",
   "propertiesFileSizeLabel": "ขนาดเอกสาร",
   "propertiesTitleLabel": "ชื่อเรื่อง",

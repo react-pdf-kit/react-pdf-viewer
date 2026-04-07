@@ -1,12 +1,13 @@
 # Localization
 
-React PDF Kit supports multiple languages through JSON locale files. This folder contains translation files that customize all user-facing text in the PDF viewer.
+React PDF Kit supports multiple languages through JSON locale files. This folder contains translation files that customize all user-facing text in the PDF viewer. For the full list of localization keys exposed by the `Localization` interface, see the [React PDF Kit interfaces documentation](https://docs.react-pdf-kit.dev/interfaces#localization).
 
 ## Available Locales
 
 | File | Language |
 | --- | --- |
 | `en_US.json` | English (United States) |
+| `de_DE.json` | German (Germany) |
 | `it_IT.json` | Italian (Italy) |
 | `pt_PT.json` | Portuguese (Portugal) |
 | `th_TH.json` | Thai (Thailand) |
@@ -15,7 +16,7 @@ React PDF Kit supports multiple languages through JSON locale files. This folder
 ## Adding a New Locale
 
 1. Copy `en_US.json` and rename it using the format `{language}_{COUNTRY}.json` (e.g., `ja_JP.json` for Japanese, `fr_FR.json` for French).
-2. Translate all 77 values in the file. **Do not rename any keys** -- only change the values.
+2. Translate all 79 values in the file. **Do not rename any keys** -- only change the values.
 3. Pass your locale file to the `localization` prop on `RPConfig`:
 
 ```jsx
@@ -127,6 +128,8 @@ Each locale file is a flat JSON object. Below is a breakdown of every key groupe
 | `singlePageTooltip` | Tooltip for single page view |
 | `dualPageLabel` | Label for dual page view |
 | `dualPageTooltip` | Tooltip for dual page view |
+| `dualPageWithCoverLabel` | Label for dual page view with a cover page |
+| `dualPageWithCoverTooltip` | Tooltip for dual page view with a cover page |
 
 ### Document Properties
 
@@ -169,7 +172,7 @@ Each locale file is a flat JSON object. Below is a breakdown of every key groupe
 
 ## Contributing a New Locale
 
-Created a locale file for a language we don't support yet? We'd love to include it! Please open a pull request with your new `{language}_{COUNTRY}.json` file added to this folder. Make sure all 77 keys are translated and the file is valid JSON before submitting.
+Created a locale file for a language we don't support yet? We'd love to include it! Please open a pull request with your new `{language}_{COUNTRY}.json` file added to this folder. Make sure all 79 keys are translated and the file is valid JSON before submitting.
 
 ## Tips
 

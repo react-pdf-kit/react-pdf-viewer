@@ -57,6 +57,8 @@
   "singlePageTooltip": "Visualizzazione singola",
   "dualPageLabel": "Doppio",
   "dualPageTooltip": "Visualizzazione doppio",
+  "dualPageWithCoverLabel": "Doppio con copertina",
+  "dualPageWithCoverTooltip": "Visualizzazione doppio con copertina",
   "propertiesFilenameLabel": "Nome file",
   "propertiesFileSizeLabel": "Dimensione file",
   "propertiesTitleLabel": "Titolo",
