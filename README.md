@@ -251,6 +251,7 @@ If you would like to use React PDF commercially, please purchase a license from 
 # Acknowledgement
 
 - [pdf.js](https://github.com/mozilla/pdf.js)
+- [node-forge](https://github.com/digitalbazaar/forge)
 - [Img Shields](https://shields.io)
 - [React.js](https://reactjs.org/)
 
