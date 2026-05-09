@@ -98,7 +98,7 @@ If you need broader browser compatibility, you can continue using PDF.js `4.10.3
 | ------ | ------- | ---- | ------ | ---------- | -------------- |
 | 119+   | 115+    | 115+ | 17.4+  | 17.4+      | 126+           |
 
-To change the version of PDF.js used, refer to [Dependency Override](https://docs.react-pdf-kit.dev/usage-guide/overriding-dependency?utm_source=github&utm_medium=referral) guide.
+To change the version of PDF.js used, refer to [Dependency Override](https://www.react-pdf-kit.dev/docs/usage-guide/overriding-dependency?utm_source=github&utm_medium=referral) guide.
 
 ## 2. Install the Package
 
@@ -137,7 +137,7 @@ yarn add @react-pdf-kit/viewer
 pnpm add @react-pdf-kit/viewer
 ```
 
-For more information on how to use different package managers, please visit our [installation guide](https://docs.react-pdf-kit.dev/introduction/getting-started/#installation?utm_source=github&utm_medium=referral).
+For more information on how to use different package managers, please visit our [installation guide](https://www.react-pdf-kit.dev/docs/introduction/getting-started/#installation?utm_source=github&utm_medium=referral).
 
 ## 3. Import and Use the Component
 
@@ -155,7 +155,7 @@ The following structure demonstrates how to build a React PDF viewer by importin
 </RPConfig>
 ```
 
-_Remark: For more information on each component, please refer to [Component](https://docs.react-pdf-kit.dev/components/overview?utm_source=github&utm_medium=referral)._
+_Remark: For more information on each component, please refer to [Component](https://www.react-pdf-kit.dev/docs/components/overview?utm_source=github&utm_medium=referral)._
 
 ### Basic Usage
 
@@ -180,7 +180,7 @@ const App = () => {
 export default App
 ```
 
-The PDF viewer will automatically adjust to fit its container's dimensions. You can control the size by setting the `style` prop on `RPLayout`. For more information on using React PDF, visit our [basic usage guide](https://docs.react-pdf-kit.dev/introduction/basic-usage?utm_source=github&utm_medium=referral)
+The PDF viewer will automatically adjust to fit its container's dimensions. You can control the size by setting the `style` prop on `RPLayout`. For more information on using React PDF, visit our [basic usage guide](https://www.react-pdf-kit.dev/docs/introduction/basic-usage?utm_source=github&utm_medium=referral)
 
 You may also check out our [Starter Toolkit](#pushpin-starter-toolkit) for examples to get you started.
 
@@ -234,7 +234,7 @@ Here are some sample projects to get started on React PDF quickly:
 
 # 📝 Changelog
 
-Check out our latest release [v2.5.0 (7 May 2026)](https://docs.react-pdf-kit.dev/introduction/changelog/#v250-7-May-2026?utm_source=github&utm_medium=referral)
+Check out our latest release [v2.5.0 (7 May 2026)](https://www.react-pdf-kit.dev/docs/introduction/changelog/#v250-7-May-2026?utm_source=github&utm_medium=referral)
 
 
 # :raising_hand: Need Help?
@@ -256,6 +256,6 @@ If you would like to use React PDF commercially, please purchase a license from 
 - [React.js](https://reactjs.org/)
 
 [reactpdf]: https://www.react-pdf-kit.dev/?utm_source=github&utm_medium=referral
-[reactpdf-docs]: https://docs.react-pdf-kit.dev/?utm_source=github&utm_medium=referral
+[reactpdf-docs]: https://www.react-pdf-kit.dev/docs/?utm_source=github&utm_medium=referral
 [npm]: https://www.npmjs.com/package/@react-pdf-kit/viewer
 [twitter]: https://www.x.com/ReactPDF
