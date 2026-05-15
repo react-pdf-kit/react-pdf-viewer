@@ -36,6 +36,9 @@
   --rp-input-placeholder-color: #c6ccd2;
   /* Pages */
   --rp-pages-background-color: #ffffff;
+  --rp-page-shadow: 0px 2px 12px 0px #00000026;
+  --rp-page-outline: none;
+  --rp-page-outline-offset: 0;
   /* Annotations */
   --rp-annotation-layer__link-hover-background: rgba(255, 255, 0, 0.2);
   /* Dropdown */
