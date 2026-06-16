@@ -85,7 +85,7 @@ React PDF Kit v2.0.0 defaults to PDF.js `5.4.530`.
 |---|---|---|---|---|---|---|
 | React PDF Kit v2 | 126+ | 126+ | 126+ | 18.4+ | 18.4+ | 126+ |
 | [React PDF Kit v2 + Polyfills](https://www.react-pdf-kit.dev/docs/usage-guide/legacy-browser-support.html#polyfills-library?utm_source=github&utm_medium=referral) | 119+ | 93+ | 119+ | 18.3+ | 18.3+ | 119+ |
-| [React PDF Kit v2 + Polyfills + Legacy PDF.js Worker](https://www.react-pdf-kit.dev/docs/usage-guide/legacy-browser-support.html#override-the-pdfjs-worker-optional?utm_source=github&utm_medium=referral) | 101+ | 101+ | 101+ | 16.5+ | 16.5+ | 101+ |
+| [React PDF Kit v2 + Polyfills + Legacy PDF.js Worker](https://www.react-pdf-kit.dev/docs/usage-guide/legacy-browser-support.html#override-the-pdfjs-worker?utm_source=github&utm_medium=referral) | 101+ | 101+ | 101+ | 16.5+ | 16.5+ | 101+ |
 
 To change the version of PDF.js used, refer to [Dependency Override](https://www.react-pdf-kit.dev/docs/usage-guide/overriding-dependency?utm_source=github&utm_medium=referral) guide.
 
