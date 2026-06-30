@@ -223,7 +223,7 @@ Here are some sample projects to get started on React PDF quickly:
 
 # 📝 Changelog
 
-Check out our latest release [v2.7.1 (17 June 2026)](https://www.react-pdf-kit.dev/docs/introduction/changelog/#v271-17-June-2026?utm_source=github&utm_medium=referral)
+Check out our latest release [v2.7.2 (26 June 2026)](https://www.react-pdf-kit.dev/docs/introduction/changelog/#v272-26-June-2026?utm_source=github&utm_medium=referral)
 
 
 # :raising_hand: Need Help?
